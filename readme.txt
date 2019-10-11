@@ -3,4 +3,5 @@ Git is free software distributed under the GPL
 Git tracks changes
 Git tracks changes file.
 °¢Ë¹¶ÙÈö
-°¢Éª´óÍõµÄ°¢ÈøµÂ
+°¢Éª´óÍõµÄ°¢Èøµ
+Creating a new branch is quick
